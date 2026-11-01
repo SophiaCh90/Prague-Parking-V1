@@ -1,0 +1,414 @@
+[
+  {
+    "Number": 1,
+    "Vehicles": [
+      {
+        "$type": "CAR",
+        "RegistrationNumber": "ABC123",
+        "ArrivalTime": "2026-11-01T15:34:15.2551047+01:00"
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Vehicles": [
+      {
+        "$type": "MC",
+        "RegistrationNumber": "MC222",
+        "ArrivalTime": "2026-11-01T15:38:34.8445942+01:00"
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Vehicles": []
+  },
+  {
+    "Number": 4,
+    "Vehicles": []
+  },
+  {
+    "Number": 5,
+    "Vehicles": []
+  },
+  {
+    "Number": 6,
+    "Vehicles": []
+  },
+  {
+    "Number": 7,
+    "Vehicles": []
+  },
+  {
+    "Number": 8,
+    "Vehicles": []
+  },
+  {
+    "Number": 9,
+    "Vehicles": []
+  },
+  {
+    "Number": 10,
+    "Vehicles": []
+  },
+  {
+    "Number": 11,
+    "Vehicles": []
+  },
+  {
+    "Number": 12,
+    "Vehicles": []
+  },
+  {
+    "Number": 13,
+    "Vehicles": []
+  },
+  {
+    "Number": 14,
+    "Vehicles": []
+  },
+  {
+    "Number": 15,
+    "Vehicles": []
+  },
+  {
+    "Number": 16,
+    "Vehicles": []
+  },
+  {
+    "Number": 17,
+    "Vehicles": []
+  },
+  {
+    "Number": 18,
+    "Vehicles": []
+  },
+  {
+    "Number": 19,
+    "Vehicles": []
+  },
+  {
+    "Number": 20,
+    "Vehicles": []
+  },
+  {
+    "Number": 21,
+    "Vehicles": []
+  },
+  {
+    "Number": 22,
+    "Vehicles": []
+  },
+  {
+    "Number": 23,
+    "Vehicles": []
+  },
+  {
+    "Number": 24,
+    "Vehicles": []
+  },
+  {
+    "Number": 25,
+    "Vehicles": []
+  },
+  {
+    "Number": 26,
+    "Vehicles": []
+  },
+  {
+    "Number": 27,
+    "Vehicles": []
+  },
+  {
+    "Number": 28,
+    "Vehicles": []
+  },
+  {
+    "Number": 29,
+    "Vehicles": []
+  },
+  {
+    "Number": 30,
+    "Vehicles": []
+  },
+  {
+    "Number": 31,
+    "Vehicles": []
+  },
+  {
+    "Number": 32,
+    "Vehicles": []
+  },
+  {
+    "Number": 33,
+    "Vehicles": []
+  },
+  {
+    "Number": 34,
+    "Vehicles": []
+  },
+  {
+    "Number": 35,
+    "Vehicles": []
+  },
+  {
+    "Number": 36,
+    "Vehicles": []
+  },
+  {
+    "Number": 37,
+    "Vehicles": []
+  },
+  {
+    "Number": 38,
+    "Vehicles": []
+  },
+  {
+    "Number": 39,
+    "Vehicles": []
+  },
+  {
+    "Number": 40,
+    "Vehicles": []
+  },
+  {
+    "Number": 41,
+    "Vehicles": []
+  },
+  {
+    "Number": 42,
+    "Vehicles": []
+  },
+  {
+    "Number": 43,
+    "Vehicles": []
+  },
+  {
+    "Number": 44,
+    "Vehicles": []
+  },
+  {
+    "Number": 45,
+    "Vehicles": []
+  },
+  {
+    "Number": 46,
+    "Vehicles": []
+  },
+  {
+    "Number": 47,
+    "Vehicles": []
+  },
+  {
+    "Number": 48,
+    "Vehicles": []
+  },
+  {
+    "Number": 49,
+    "Vehicles": []
+  },
+  {
+    "Number": 50,
+    "Vehicles": []
+  },
+  {
+    "Number": 51,
+    "Vehicles": []
+  },
+  {
+    "Number": 52,
+    "Vehicles": []
+  },
+  {
+    "Number": 53,
+    "Vehicles": []
+  },
+  {
+    "Number": 54,
+    "Vehicles": []
+  },
+  {
+    "Number": 55,
+    "Vehicles": []
+  },
+  {
+    "Number": 56,
+    "Vehicles": []
+  },
+  {
+    "Number": 57,
+    "Vehicles": []
+  },
+  {
+    "Number": 58,
+    "Vehicles": []
+  },
+  {
+    "Number": 59,
+    "Vehicles": []
+  },
+  {
+    "Number": 60,
+    "Vehicles": []
+  },
+  {
+    "Number": 61,
+    "Vehicles": []
+  },
+  {
+    "Number": 62,
+    "Vehicles": []
+  },
+  {
+    "Number": 63,
+    "Vehicles": []
+  },
+  {
+    "Number": 64,
+    "Vehicles": []
+  },
+  {
+    "Number": 65,
+    "Vehicles": []
+  },
+  {
+    "Number": 66,
+    "Vehicles": []
+  },
+  {
+    "Number": 67,
+    "Vehicles": []
+  },
+  {
+    "Number": 68,
+    "Vehicles": []
+  },
+  {
+    "Number": 69,
+    "Vehicles": []
+  },
+  {
+    "Number": 70,
+    "Vehicles": []
+  },
+  {
+    "Number": 71,
+    "Vehicles": []
+  },
+  {
+    "Number": 72,
+    "Vehicles": []
+  },
+  {
+    "Number": 73,
+    "Vehicles": []
+  },
+  {
+    "Number": 74,
+    "Vehicles": []
+  },
+  {
+    "Number": 75,
+    "Vehicles": []
+  },
+  {
+    "Number": 76,
+    "Vehicles": []
+  },
+  {
+    "Number": 77,
+    "Vehicles": []
+  },
+  {
+    "Number": 78,
+    "Vehicles": []
+  },
+  {
+    "Number": 79,
+    "Vehicles": []
+  },
+  {
+    "Number": 80,
+    "Vehicles": []
+  },
+  {
+    "Number": 81,
+    "Vehicles": []
+  },
+  {
+    "Number": 82,
+    "Vehicles": []
+  },
+  {
+    "Number": 83,
+    "Vehicles": []
+  },
+  {
+    "Number": 84,
+    "Vehicles": []
+  },
+  {
+    "Number": 85,
+    "Vehicles": []
+  },
+  {
+    "Number": 86,
+    "Vehicles": []
+  },
+  {
+    "Number": 87,
+    "Vehicles": []
+  },
+  {
+    "Number": 88,
+    "Vehicles": []
+  },
+  {
+    "Number": 89,
+    "Vehicles": []
+  },
+  {
+    "Number": 90,
+    "Vehicles": []
+  },
+  {
+    "Number": 91,
+    "Vehicles": []
+  },
+  {
+    "Number": 92,
+    "Vehicles": []
+  },
+  {
+    "Number": 93,
+    "Vehicles": []
+  },
+  {
+    "Number": 94,
+    "Vehicles": []
+  },
+  {
+    "Number": 95,
+    "Vehicles": []
+  },
+  {
+    "Number": 96,
+    "Vehicles": []
+  },
+  {
+    "Number": 97,
+    "Vehicles": []
+  },
+  {
+    "Number": 98,
+    "Vehicles": []
+  },
+  {
+    "Number": 99,
+    "Vehicles": []
+  },
+  {
+    "Number": 100,
+    "Vehicles": []
+  }
+]

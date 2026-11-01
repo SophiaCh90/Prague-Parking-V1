@@ -1,0 +1,6 @@
+# Pris per påbörjad timme i CZK.
+# Ändra beloppet efter likhetstecknet.
+# Använd punkt om du skriver decimaler.
+# Högst 10 minuters parkering är gratis.
+CAR=20
+MC=10

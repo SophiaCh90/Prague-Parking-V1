@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="PragueParking V2/PragueParking V2.csproj" Id="083b046c-4e75-4e43-a6f9-4962dc4b6790" />
+  <Project Path="PragueParking.Data/PragueParking.Data.csproj" Id="5b78233f-4f0e-4f55-837b-80cb9c090cda" />
   <Project Path="Projekt Inlämningsuppgift/Projekt Prague Parking V1.csproj" />
 </Solution>

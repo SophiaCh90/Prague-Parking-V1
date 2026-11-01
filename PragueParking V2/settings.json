@@ -1,0 +1,7 @@
+{
+  "NumberOfSpots": 100,
+  "VehiclesPerSpot": {
+    "CAR": 1,
+    "MC": 2
+  }
+}
